@@ -18,9 +18,10 @@ sidebar-avatar: /img/zhangda.jpg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-# weibo_username:     zhengchengdong
-github_username:    ywzhang188
-
+weibo_username:
+github_username:
+facebook_username:
+twitter_username:
 
 
 
@@ -96,7 +97,7 @@ service-worker: true
 friends: [
     {
         title: "Yuwei Zhang",
-        href: "http://zhangyuwei.com"
+        href: "http://zhangyuwei.site"
     },{
         title: "Zishan Zhao",
         href: "http://www.zhaozishan.com"
