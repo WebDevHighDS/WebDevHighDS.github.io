@@ -58,11 +58,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: cf10f6b7417a9159b670                            #生成的clientID
-  clientSecret: 2ed0b7f418507055c421e221195a4c924ccfa50d    #生成的clientSecret
-  repo: WebDevHighDS.github.io    #仓库名称
-  owner: ywzhang188    #github用户名
-  admin: ywzhang188
+  clientID: 970c173650c848d4a5d8                            #生成的clientID
+  clientSecret: 7105e3d719184264a3255fbf19652dbb81baa495    #生成的clientSecret
+  repo: comments    #仓库名称
+  owner: WebDevHighDS    #github用户名
+  admin: WebDevHighDS
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
