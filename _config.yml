@@ -61,7 +61,7 @@ gitalk:
   clientID: 92e2100003351e885593                            #生成的clientID
   clientSecret: 8159965102b8f2c72da933cf205cb71d22792daf    #生成的clientSecret
   repo: WebDevHighDS.github.io    #仓库名称
-  owner: ywzhang188    #github用户名
+  owner: WebDevHighDS    #github用户名
   admin: ywzhang188
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
