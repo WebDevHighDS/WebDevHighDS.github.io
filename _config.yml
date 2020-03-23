@@ -97,7 +97,7 @@ service-worker: true
 friends: [
     {
         title: "Yuwei Zhang",
-        href: "http://zhangyuwei.site"
+        href: "http://www.zhangyuwei.site"
     },{
         title: "Zishan Zhao",
         href: "http://www.zhaozishan.com"
