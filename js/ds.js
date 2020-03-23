@@ -2047,7 +2047,7 @@
                     key: 'genDom',
                     value: function genDom() {
                         this.createDom(_defineProperty({
-                            href: 'https://HighDS.github.io/',
+                            href: 'https://WebDevHighDS.github.io/',
                             target: '_blank'
                         }, _dom.textKey, '了解更多⚽🏀💻'), 'a');
                     }
