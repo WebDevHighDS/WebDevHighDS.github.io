@@ -89,6 +89,27 @@ header-img: "img/post-bg-rwd.jpg"
     _render();
 </script>
 
+<!-- 文章打赏功能 支持支付宝、微信打赏-->
+<script src='{{ "/js/ds.js" | prepend: site.baseurl }}'></script>
+<script>
+    new tctip({
+        top: '20%',
+        button: {
+            id: 6,
+            type: 'dashang'
+        },
+        list: [
+            {
+                type: 'alipay',
+                qrImg: '{{site.alipay_qr_img}}'
+            }, {
+                type: 'wechat',
+                qrImg: '{{site.wechat_qr_img}}'
+            }
+        ]
+    }).init()
+</script>
+
 
 <!-- Gitalk 评论 start  -->
 {% if site.gitalk.enable %}
